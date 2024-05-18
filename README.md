@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Svelte, Typescript, Express and MongoDB**
 
-- 👨‍💻 All of my projects are available at [portfolio link(coming soon)](portfolio link(coming soon))
-
 - 📫 How to reach me **ramdani150905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
