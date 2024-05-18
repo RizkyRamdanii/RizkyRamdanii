@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rizky Ramdani</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A Front-End developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyramdanii&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyramdanii" /> </p>
 
 - 🌱 I’m currently learning **Svelte, Typescript, Express and MongoDB**
 
-- 📫 How to reach me **ramdani150905@gmail.com**
+- 📫 How to reach me <br> **ramdani150905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
