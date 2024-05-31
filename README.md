@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyramdanii&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyramdanii" /> </p>
 
-- 🌱 I’m currently learning **Svelte, Typescript, Express and MongoDB**
+- 🌱 I’m currently learning **Svelte and Typescript**
 
 - 📫 How to reach me <br> **ramdani150905@gmail.com**
 
